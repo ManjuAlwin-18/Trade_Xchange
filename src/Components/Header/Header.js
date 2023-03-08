@@ -1,7 +1,7 @@
 import React,{useContext} from 'react';
 import { useHistory } from 'react-router-dom';
 import './Header.css';
-import OlxLogo from '../../assets/OlxLogo';
+
 import Search from '../../assets/Search';
 import Arrow from '../../assets/Arrow';
 import SellButton from '../../assets/SellButton';
