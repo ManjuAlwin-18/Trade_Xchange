@@ -33,5 +33,5 @@ This repository contains the code for a reselling website built using React JS. 
 
 ## Support
 
-If you have any questions or need help with the code, feel free to contact me at [example@example.com](mailto:example@example.com).we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+If you have any questions or need help with the code, feel free to contact me at manjudavis18@gmail.com .we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
